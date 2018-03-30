@@ -1,4 +1,4 @@
-package br.com.david.criteria;
+package br.com.david.criteriaTeste;
 
 import br.com.david.model.Funcionario;
 import br.com.david.model.HibernateSession;
@@ -28,12 +28,18 @@ public class CriteriaSelectFromDoisDepartamento {
         CriteriaQuery<Object[]> criteriaQuery = criteriaBuilder.createQuery(Object[].class);
 
         Root<Funcionario> root = criteriaQuery.from(Funcionario.class);
+
         criteriaQuery.multiselect(root.get("nome"),root.get("salario"));
+
         Query<Object[]> query = session.createQuery(criteriaQuery);
+
         List<Object[]> list = query.getResultList();
+
+        transaction.commit();
 
         for (Object[] objects : list){
             System.out.println(objects[0]+ " "+ objects[1]);
         }
+
     }
 }

@@ -1,4 +1,4 @@
-package br.com.david.criteria;
+package br.com.david.criteriaTeste;
 
 import br.com.david.model.Departamento;
 import br.com.david.model.HibernateSession;

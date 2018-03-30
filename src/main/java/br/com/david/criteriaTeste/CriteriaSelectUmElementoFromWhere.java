@@ -1,4 +1,4 @@
-package br.com.david.criteria;
+package br.com.david.criteriaTeste;
 
 import br.com.david.model.Funcionario;
 import br.com.david.model.HibernateSession;
@@ -26,10 +26,12 @@ public class CriteriaSelectUmElementoFromWhere {
         query.select(root.<String>get("nome")).where(criteriaBuilder.equal(root.get("id"),2L));
         Query<String> stringQuery = session.createQuery(query);
         List<String> funcionarioList = stringQuery.getResultList();
-
+        transaction.commit();
         for (String funcionario : funcionarioList){
             System.out.println(funcionario);
         }
+
+
 
     }
 }

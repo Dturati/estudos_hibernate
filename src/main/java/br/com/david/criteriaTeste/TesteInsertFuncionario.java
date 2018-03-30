@@ -1,4 +1,4 @@
-package br.com.david.criteria;
+package br.com.david.criteriaTeste;
 
 import br.com.david.model.Funcionario;
 import br.com.david.model.HibernateSession;
@@ -9,9 +9,9 @@ public class TesteInsertFuncionario {
     public static void main(String[] args) {
 
         Funcionario funcionario = new Funcionario();
-        funcionario.setNome("Joana");
+        funcionario.setNome("Pedra");
         funcionario.setCargo("Recepção");
-        funcionario.setSalario(1399);
+        funcionario.setSalario(4000);
 
         Transaction transaction = null;
         Session session = HibernateSession.getSessionFactory().openSession();
