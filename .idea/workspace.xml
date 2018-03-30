@@ -6,9 +6,10 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0d290663-1b9a-478c-a780-3ff42670fe21" name="Default" comment="">
+    <list default="true" id="0d290663-1b9a-478c-a780-3ff42670fe21" name="Default" comment="gitignone">
       <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/david/criteriaTeste/TesteCriteriaGroupByAndHaving.java" afterPath="$PROJECT_DIR$/src/main/java/br/com/david/criteriaTeste/TesteCriteriaGroupByAndHaving.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -36,11 +37,11 @@
       <file leaf-file-name="TesteCriteriaGroupByAndHaving.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/br/com/david/criteriaTeste/TesteCriteriaGroupByAndHaving.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="453">
-              <caret line="32" column="109" lean-forward="false" selection-start-line="32" selection-start-column="109" selection-end-line="32" selection-end-column="109" />
+            <state relative-caret-position="153">
+              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1321#1329#0" expanded="true" />
+                <element signature="e#1322#1330#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -50,7 +51,7 @@
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
-              <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+              <caret line="3" column="8" lean-forward="false" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -522,7 +523,7 @@
       <option name="presentableId" value="Default" />
       <updated>1522287386808</updated>
       <workItem from="1522287390067" duration="4825000" />
-      <workItem from="1522292284740" duration="24581000" />
+      <workItem from="1522292284740" duration="24659000" />
     </task>
     <task id="LOCAL-00001" summary="Having">
       <created>1522444039924</created>
@@ -538,11 +539,18 @@
       <option name="project" value="LOCAL" />
       <updated>1522444049351</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="gitignone">
+      <created>1522444108166</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1522444108166</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29406000" />
+    <option name="totallyTimeSpent" value="29484000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1469" y="233" width="1600" height="873" extended-state="6" />
@@ -592,7 +600,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Having" />
-    <option name="LAST_COMMIT_MESSAGE" value="Having" />
+    <MESSAGE value="gitignone" />
+    <option name="LAST_COMMIT_MESSAGE" value="gitignone" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -960,11 +969,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/br/com/david/criteriaTeste/TesteCriteriaGroupByAndHaving.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="453">
-          <caret line="32" column="109" lean-forward="false" selection-start-line="32" selection-start-column="109" selection-end-line="32" selection-end-column="109" />
+        <state relative-caret-position="153">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1321#1329#0" expanded="true" />
+            <element signature="e#1322#1330#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -972,7 +981,7 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
-          <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+          <caret line="3" column="8" lean-forward="false" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
           <folding />
         </state>
       </provider>

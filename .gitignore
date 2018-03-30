@@ -1,4 +1,7 @@
 .idea/
+/.idea
+/out/
+/target/
 out/
 target/
 hibernate.iml

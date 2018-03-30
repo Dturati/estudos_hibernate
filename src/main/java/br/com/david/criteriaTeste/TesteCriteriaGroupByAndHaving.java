@@ -13,6 +13,7 @@ import javax.persistence.criteria.Root;
 import java.util.List;
 
 public class TesteCriteriaGroupByAndHaving {
+
     public static void main(String[] args) {
 
         Transaction transaction = null;
