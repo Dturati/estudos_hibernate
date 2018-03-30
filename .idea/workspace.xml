@@ -7,25 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0d290663-1b9a-478c-a780-3ff42670fe21" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/br/com/david/criteriaTeste/TesteCriteriaAgregacoes.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/br/com/david/criteriaTeste/TesteCriteriaGroupByAndHaving.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/br/com/david/criteriaTeste/TesteCriteriaJoin.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/david/criteria/CriteriaSelecFromWhereDepartamento.java" afterPath="$PROJECT_DIR$/src/main/java/br/com/david/criteriaTeste/CriteriaSelecFromWhereDepartamento.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/david/criteria/CriteriaSelectFromDoisDepartamento.java" afterPath="$PROJECT_DIR$/src/main/java/br/com/david/criteriaTeste/CriteriaSelectFromDoisDepartamento.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/david/criteria/CriteriaSelectFuncionario.java" afterPath="$PROJECT_DIR$/src/main/java/br/com/david/criteriaTeste/CriteriaSelectFuncionario.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/david/criteria/CriteriaSelectUmElementoFromWhere.java" afterPath="$PROJECT_DIR$/src/main/java/br/com/david/criteriaTeste/CriteriaSelectUmElementoFromWhere.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/david/criteria/TesteInsertDepartamento.java" afterPath="$PROJECT_DIR$/src/main/java/br/com/david/criteriaTeste/TesteInsertDepartamento.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/david/criteria/TesteInsertFuncionario.java" afterPath="$PROJECT_DIR$/src/main/java/br/com/david/criteriaTeste/TesteInsertFuncionario.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/david/criteria/TesteSelectCriteria.java" afterPath="$PROJECT_DIR$/src/main/java/br/com/david/criteriaTeste/TesteSelectCriteria.java" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/david/criteria/CriteriaSelecFromWhereDepartamento.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/david/criteria/CriteriaSelectFromDoisDepartamento.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/david/criteria/CriteriaSelectFuncionario.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/david/criteria/CriteriaSelectUmElementoFromWhere.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/david/criteria/TesteInsertDepartamento.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/david/criteria/TesteInsertFuncionario.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/david/criteria/TesteSelectCriteria.class" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -539,12 +521,20 @@
       <option name="presentableId" value="Default" />
       <updated>1522287386808</updated>
       <workItem from="1522287390067" duration="4825000" />
-      <workItem from="1522292284740" duration="24503000" />
+      <workItem from="1522292284740" duration="24526000" />
     </task>
+    <task id="LOCAL-00001" summary="Having">
+      <created>1522444039924</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1522444039924</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29328000" />
+    <option name="totallyTimeSpent" value="29351000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1469" y="233" width="1600" height="873" extended-state="6" />
@@ -593,7 +583,8 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="Having" />
+    <option name="LAST_COMMIT_MESSAGE" value="Having" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
